@@ -2,4 +2,4 @@
 
 eleventy --formats=md,png,jpg
 eleventy --serve
-tar -cvz ./_site/* > build.tar.gz
+tar -C _site -cvz . > build.tar.gz
