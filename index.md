@@ -25,8 +25,6 @@ clean social media [Subreply](https://subreply.com/about). (Hence the name)
 Wanna try it first? Visit the [demo](https://raw.githack.com/HoangTuan110/subreply-css/main/test.html)
 or go to [my website](https://tsk.bearblog.dev), which uses Subreply CSS.
 
-[Get it now!](#installation)
-
 [GitHub](https://github.com/HoangTuan110/subreply-css)
 
 # Installation
