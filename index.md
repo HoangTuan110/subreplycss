@@ -29,11 +29,6 @@ or go to [my website](https://tsk.bearblog.dev), which uses Subreply CSS.
 
 [GitHub](https://github.com/HoangTuan110/subreply-css)
 
-# Screenshots
-
-![My blog with Subreply CSS](./assets/my_blog_with_subreply_css.png)
-![Subreply CSS demo](./assets/subreply_css_demo.png)
-
 # Installation
 
 You can download the file `subreply.css` or `subreply.min.css`, or paste into your website's &lt;head&gt;
