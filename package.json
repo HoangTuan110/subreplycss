@@ -1,0 +1,5 @@
+{
+  "scripts": {
+    "build": "npx @11ty/eleventy --formats=md,png,jpg; npx @11ty/eleventy --serve"
+  }
+}
